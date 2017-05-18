@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Maps\n"
+"POT-Creation-Date: 2016-04-22 19:28+0300\n"
+"PO-Revision-Date: 2016-04-22 19:28+0300\n"
+"Last-Translator: Pavel\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: app/admin_init.php:29
+msgid "My maps"
+msgstr "Мои карты"
+
+#: app/controller/admin/Data.php:42
+msgid "Records"
+msgstr "Записи"
+
+#: app/controller/admin/Data.php:77
+msgid "Data created"
+msgstr "Данные созданы"
+
+#: app/controller/admin/Data.php:115
+msgid "Data updated"
+msgstr "Данные обновлены"
+
+#: app/controller/admin/Data.php:127
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: app/controller/admin/Data.php:157
+msgid "Data deleted"
+msgstr "Данные удалены"
+
+#: app/controller/admin/Data.php:173 app/view/admin/data/add.php:4
+msgid "List maps"
+msgstr "Список карт"
+
+#: app/controller/admin/Data.php:174
+msgid "Add map"
+msgstr "Добавить карту"
+
+#: app/controller/admin/Data.php:178
+msgid "Search"
+msgstr "Поиск"
+
+#: app/controller/admin/Data.php:181
+msgid "Copy and paste your shortcode in post or page."
+msgstr "Скопируйте и вставьте ваш шорткод в статьи или страницу."
+
+#: app/controller/admin/Data.php:183
+msgid "Additional attributes:"
+msgstr "Дополнительные атрибуты:"
+
+#: app/controller/admin/Data.php:185
+msgid "Width - width map"
+msgstr "Width - ширина карты"
+
+#: app/controller/admin/Data.php:186
+msgid "Height - height map"
+msgstr "Height - высота карты"
+
+#: app/controller/admin/Data.php:187
+msgid "Zoom - zoom map"
+msgstr "Zoom - размер карты (приближение/уадаление, т.е. детализация)"
+
+#: app/controller/admin/Data.php:189
+msgid ""
+"Example - [my-map id=\"map_id\" width=\"320\" height=\"240\" zoom=\"15\"]"
+msgstr ""
+"Пример - [my-map id=\"map_id\" width=\"320\" height=\"240\" zoom=\"15\"]"
+
+#: app/controller/admin/Data.php:201
+msgid "Map creating"
+msgstr "Создание карты"
+
+#: app/controller/admin/Data.php:214
+msgid "Map editing"
+msgstr "Редактирование карты"
+
+#: app/controller/admin/Data.php:233 app/view/admin/data/index.php:54
+msgid "Title"
+msgstr "Название"
+
+#: app/controller/admin/Data.php:234 app/view/admin/data/index.php:55
+msgid "Address"
+msgstr "Адресс"
+
+#: app/controller/admin/Data.php:235
+msgid "wpnonce field"
+msgstr "Поле wpnonce"
+
+#: app/controller/admin/Data.php:260
+msgid "\"{field}\" must not be empty"
+msgstr "Поле \"{field}\" не должно быть пустым"
+
+#: app/controller/admin/Data.php:261
+msgid "\"{field}\" must not exceed {param1} characters long"
+msgstr "Поле \"{field}\" не должно превышать {param1} символов"
+
+#: app/controller/admin/Data.php:262
+msgid "Wrong form data"
+msgstr "Ошибка отправленных данных (не верный параметр \"wpnonce\")"
+
+#: app/view/admin/data/index.php:53
+msgid "ID"
+msgstr "ID"
+
+#: app/view/admin/data/index.php:56
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: app/view/admin/data/index.php:57
+msgid "Date create"
+msgstr "Дата создания"
+
+#: app/view/admin/data/index.php:117
+msgid "Data not found"
+msgstr "Данные отсутствуют"
+
+#: app/view/admin/data/index.php:141
+msgid "edit"
+msgstr "редактировать"
+
+#: app/view/admin/data/index.php:142
+msgid "Is Deleted?"
+msgstr "Продолжить удаление?"
+
+#: app/view/admin/data/index.php:142
+msgid "delete"
+msgstr "удалить"

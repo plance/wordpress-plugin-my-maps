@@ -1,0 +1,11 @@
+.wp-list-table .column-id {
+	width: 5%;
+}
+
+.wp-list-table .column-date_create  {
+	width: 150px;
+}
+
+.form-msm .f-text {
+	width: 50%;
+}
